@@ -1,0 +1,1 @@
+This is my personal portfolio website where I showcase my skills, projects, and experience as a developer. It highlights my work in full-stack development, including both frontend and backend technologies.
